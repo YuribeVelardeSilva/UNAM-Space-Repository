@@ -1,0 +1,7 @@
+{
+  "CAMERA_INDEX": 0,
+  "FRAME_WIDTH": 640,
+  "FRAME_HEIGHT": 480,
+  "FRAME_FPS": 30,
+  "BUFFER_SECONDS": 5
+}

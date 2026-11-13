@@ -1,0 +1,17 @@
+#env
+.Portfolio/ 
+
+# Python
+__pycache__/
+*.pyc
+
+# Datos (clave) Archivos muy grandes, no se suben al repositorio
+data/*
+!data/
+!data/README.md
+
+# Archivos grandes
+*.zip
+
+#Archivos random
+test_logo.sh
